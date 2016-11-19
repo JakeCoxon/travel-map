@@ -1,0 +1,23 @@
+{
+  "name": "gps",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "google-map-react": "^0.21.3",
+    "lodash": "^4.16.6",
+    "mobx": "^2.6.2",
+    "mobx-react": "^3.5.9",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-google-maps": "^4.11.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
